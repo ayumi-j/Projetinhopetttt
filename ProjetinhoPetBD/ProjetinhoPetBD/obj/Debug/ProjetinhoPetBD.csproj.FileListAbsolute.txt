@@ -1,0 +1,17 @@
+c:\users\tecnico\documents\visual studio 2015\Projects\ProjetinhoPetBD\ProjetinhoPetBD\bin\Debug\ProjetinhoPetBD.exe.config
+c:\users\tecnico\documents\visual studio 2015\Projects\ProjetinhoPetBD\ProjetinhoPetBD\obj\Debug\ProjetinhoPetBD.csprojResolveAssemblyReference.cache
+c:\users\tecnico\documents\visual studio 2015\Projects\ProjetinhoPetBD\ProjetinhoPetBD\obj\Debug\ProjetinhoPetBD.csproj.ProjetinhoPetBD.exe.config
+c:\users\tecnico\documents\visual studio 2015\Projects\ProjetinhoPetBD\ProjetinhoPetBD\bin\Debug\ProjetinhoPetBD.exe
+c:\users\tecnico\documents\visual studio 2015\Projects\ProjetinhoPetBD\ProjetinhoPetBD\bin\Debug\ProjetinhoPetBD.pdb
+c:\users\tecnico\documents\visual studio 2015\Projects\ProjetinhoPetBD\ProjetinhoPetBD\bin\Debug\MySql.Data.dll
+c:\users\tecnico\documents\visual studio 2015\Projects\ProjetinhoPetBD\ProjetinhoPetBD\bin\Debug\Google.Protobuf.dll
+c:\users\tecnico\documents\visual studio 2015\Projects\ProjetinhoPetBD\ProjetinhoPetBD\bin\Debug\ZstdNet.dll
+c:\users\tecnico\documents\visual studio 2015\Projects\ProjetinhoPetBD\ProjetinhoPetBD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+c:\users\tecnico\documents\visual studio 2015\Projects\ProjetinhoPetBD\ProjetinhoPetBD\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\tecnico\documents\visual studio 2015\Projects\ProjetinhoPetBD\ProjetinhoPetBD\bin\Debug\Ubiety.Dns.Core.dll
+c:\users\tecnico\documents\visual studio 2015\Projects\ProjetinhoPetBD\ProjetinhoPetBD\bin\Debug\System.Buffers.dll
+c:\users\tecnico\documents\visual studio 2015\Projects\ProjetinhoPetBD\ProjetinhoPetBD\bin\Debug\K4os.Compression.LZ4.dll
+c:\users\tecnico\documents\visual studio 2015\Projects\ProjetinhoPetBD\ProjetinhoPetBD\bin\Debug\K4os.Hash.xxHash.dll
+c:\users\tecnico\documents\visual studio 2015\Projects\ProjetinhoPetBD\ProjetinhoPetBD\bin\Debug\MySql.Data.xml
+c:\users\tecnico\documents\visual studio 2015\Projects\ProjetinhoPetBD\ProjetinhoPetBD\obj\Debug\ProjetinhoPetBD.exe
+c:\users\tecnico\documents\visual studio 2015\Projects\ProjetinhoPetBD\ProjetinhoPetBD\obj\Debug\ProjetinhoPetBD.pdb
